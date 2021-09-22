@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+.navbar {
+    text-align: center;
+    font-family: monospace;
+    font-size: 1.3em;
+}   
+
+.baslik {
+    color: blueviolet;
+}
+
+.anasayfa, .about, .product {
+    color: crimson;
+}
+
+.baslik, .anasayfa, .kitaplar, .giris-tanitim, .about, .product, .listing{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+}
+
+li{
+    list-style-position: inside;
+}
+
+.ana-kitaplar {
+    margin-left: 40%;
+}
