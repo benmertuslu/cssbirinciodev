@@ -16,12 +16,17 @@
     color: crimson;
 }
 
-.baslik, .anasayfa, .kitaplar, .giris-tanitim, .about, .product, .listing{
+.baslik, 
+.anasayfa, 
+.kitaplar, 
+.giris-tanitim, 
+.about, .product, 
+.listing {
     text-align: center;
     font-family: "Roboto", sans-serif;
 }
 
-li{
+li {
     list-style-position: inside;
 }
 
